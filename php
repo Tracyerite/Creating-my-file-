@@ -1,2 +1,2 @@
 sample php
-this first file under document
+ first file under document
